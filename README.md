@@ -50,13 +50,18 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Mock-Up
 
-As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
+User is initally brought to search page with user not logged in.
+![graphic shows homepage with user currently not logged in](./Assets/homepage.png)
 
-![Animation shows "disney" typed into a search box and books about Disney appearing as results.](./Assets/21-mern-homework-demo-01.gif)
+User can navigate to login/sign up button to login and expand search/saving capabilities
+![user login/signup page](./Assets/loginsignuppage.png)
 
-A user can save any book by clicking "Save This Book!" under each search result, as shown in the following animation:
+User is now logged in and can search database as desired
+![search page with user logged in](./Assets/userloggedindashboard.png)
 
-![Image shows where user can click "Save This Book!" button to save books as they appear in search results. The button label will change to "Book Already Saved" if it is clicked and the book was previously saved.](./Assets/21-mern-homework-demo-02.gif)
+As you can see in the following graphic, a user can type a search term (in this case, "disney") in a search box and the results appear. A user can also save any book by clicking "Save This Book!" under each search result, as shown in the following graphic:
+
+![graphic shows "disney" typed into a search box and books about Disney appearing as results.](./Assets/disneysearchwithsaveoptions.png)
 
 A user can view their saved books on a separate page.
 
@@ -73,8 +78,8 @@ A user can view their saved books on a separate page.
 
 ## Applicaton Links
 
-GitHub Repo:
-Application URL:
+GitHub Repo: https://github.com/chelseyvalerio/MERN-book-search-engine
+Heroku Application URL:
 
 ## Contact
 
