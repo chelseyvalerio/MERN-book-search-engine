@@ -83,4 +83,4 @@ Heroku Application URL:
 
 ## Contact
 
-Please contact me at cvalerio@csog.net with any questions.
+Please contact me at cvalerio@csog.net with any questions. Thank you!
