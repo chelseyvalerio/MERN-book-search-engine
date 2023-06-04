@@ -63,10 +63,6 @@ As you can see in the following graphic, a user can type a search term (in this 
 
 ![graphic shows "disney" typed into a search box and books about Disney appearing as results.](./Assets/disneysearchwithsaveoptions.png)
 
-A user can view their saved books on a separate page.
-
-![The Viewing User's Books page shows the books that the user 'User' has saved.](./Assets/21-mern-homework-demo-03.gif)
-
 ## Technologies Used
 
 1. Apollo Server
@@ -79,7 +75,7 @@ A user can view their saved books on a separate page.
 ## Applicaton Links
 
 GitHub Repo: https://github.com/chelseyvalerio/MERN-book-search-engine
-Heroku Application URL:
+Heroku Application URL: https://secret-hamlet-86447.herokuapp.com/
 
 ## Contact
 
